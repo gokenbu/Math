@@ -26,6 +26,14 @@ $$
  \alpha,\beta, \gamma,\delta, \Gamma,\Delta
 $$
 
+#### 4.指数^和下标_
+
+
+$$
+A_x+B_y=C^z
+$$
+
+
 
 ### Latex基础
 
