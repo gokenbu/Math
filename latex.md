@@ -82,7 +82,6 @@ $$
 
 - 数组
 
-
 ```
 \mathbf{X} =
 \left( \begin{array}{ccc}
