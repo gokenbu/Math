@@ -54,9 +54,6 @@ $$
 * 向量\vec,\overrightarrow,\overleftarrow
 
 
-  $$
-  \vec a\quad \overrightarrow{AB} \quad \overleftarrow{AB}
-  $$
 
 * 积分（integral）\int，求和（sum）\sum，乘积运算（product）\prod
 
