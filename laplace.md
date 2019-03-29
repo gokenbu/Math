@@ -32,7 +32,9 @@ $$
 \sin\omega t    \qquad\rightarrow\qquad    \frac{\omega}{s^2+\omega^2}
 $$
 
-
+$$
+\cos\omega t \qquad\rightarrow\qquad \frac{s}{s^2+\omega^2}
+$$
 
 
 
