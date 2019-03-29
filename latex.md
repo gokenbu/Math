@@ -48,11 +48,10 @@ A^x+B_y=\sqrt{C^z+D} \cdot \sqrt[3]{E-F}
 $$
 
 
-* 上画线\overline, 下画线\underline, 水平大括号\overbrace及\underbrace
+* 上画线\overline, 下画线\underline
 
 $$
 \overline{m+n} \qquad \underline{m+n} \qquad
-\overbrace{a+b+\cdots+z}
 $$
 
 
