@@ -26,13 +26,14 @@ $$
  \alpha,\beta, \gamma,\delta, \Gamma,\Delta
 $$
 
-#### 4.指数^,下标_,平方根\sqrt，\sqrt[n],不等号\neq
+#### 4.
+- 指数^,下标_,平方根\sqrt，方根\sqrt[n],不等号\neq
 
 $$
 A_x+B_y+C^z \neq \sqrt{D+E} * \sqrt[3]{F-G}
 $$
 
-#### 5.上画线\overline，下画线\underline
+- 上画线\overline，下画线\underline
 
 
 $$
@@ -40,7 +41,9 @@ $$
 $$
 
 - 上、下方水平大括号: \overbrace 和\underbrace 在表达式的
-
+$$
+\underbrace{ a+b+\cdots+z }_{26} \qquad 
+$$
 
 ### Latex基础
 
