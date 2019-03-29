@@ -38,8 +38,8 @@ $$
 
 
 $$
-\frac{s}{s^2+\omega^2}
- \qquad\rightarrow\qquad \frac{s}{s^2+\omega^2}
+\frac{di(t)}{dt}
+ \qquad\rightarrow\qquad sI(s) - i(0)
 $$
 
 
