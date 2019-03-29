@@ -31,24 +31,25 @@ $$
 
 
 #### 3.字符
-- 不等号\neq, 空格\qquad, 圆点\cdot, 三圆点\cdots, 箭头\leftarrow, \rightarrow
+
+* 不等号\neq, 空格\qquad, 圆点\cdot, 三圆点\cdots, 箭头\leftarrow, \rightarrow
 
 
 $$
-\neq \qquad \cdot \qquad \cdots \qquad \leftarrow \qquad \rightarrow 
-
-
+\neq \qquad \cdot \qquad \cdots \qquad \leftarrow \qquad \rightarrow
 $$
-
 
 
 ### 4.格式
-- 分数（fraction）\frac{...}{...}
-$$
-X=\frac{a+b}{c-d}
-$$
 
-- 上标^,下标_,平方根\sqrt，方根\sqrt\[n\]
+* 分数（fraction）\frac{...}{...}
+
+
+  $$
+  X=\frac{a+b}{c-d}
+  $$
+
+* 上标^,下标\_,平方根\sqrt，方根\sqrt\[n\]
 
 
 $$
@@ -56,9 +57,7 @@ A^x+B_y=\sqrt{C^z+D} \cdot \sqrt[3]{E-F}
 $$
 
 
-- 上画线\overline, 下画线\underline, 水平大括号\overbrace及\underbrace
-
-
+* 上画线\overline, 下画线\underline, 水平大括号\overbrace及\underbrace
 
 
 $$
@@ -66,12 +65,15 @@ $$
 \overbrace{ a+b+\cdots+z }^{26} \qquad \underbrace{ a+b+\cdots+z }_{26}
 $$
 
-- 向量\vec,\overrightarrow,\overleftarrow
-$$
-\vec a\quad \overrightarrow{AB} \quad \overleftarrow{AB}
-$$
 
-- 积分（integral）\int，求和（sum）\sum，乘积运算（product）\prod
+* 向量\vec,\overrightarrow,\overleftarrow
+
+
+  $$
+  \vec a\quad \overrightarrow{AB} \quad \overleftarrow{AB}
+  $$
+
+* 积分（integral）\int，求和（sum）\sum，乘积运算（product）\prod
 
 
 $$
@@ -80,17 +82,14 @@ $$
 \prod_\epsilon
 $$
 
-- 数组
+
+* 数组
 
 ```
-\mathbf{X} =
-\left( \begin{array}{ccc}
-x_{11} & x_{12} & \ldots \\
-x_{21} & x_{22} & \ldots \\
-\vdots & \vdots & \ddots
+\mathbf{X} = \left( \begin{array}{ccc} x_{11} & x_{12} & \ldots \\ x_{21} & x_{22} & \ldots \\ \vdots & \vdots & \ddots
 \end{array} \right)
-
 ```
+
 
 $$
 \mathbf{X} =
@@ -100,8 +99,6 @@ x_{21} & x_{22} & \ldots \\
 \vdots & \vdots & \ddots
 \end{array} \right)
 $$
-
-
 
 
 ### Latex基础
