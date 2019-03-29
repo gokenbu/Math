@@ -18,9 +18,6 @@ a^x+y \neq a^{x+y}
 $$
 
 
-
-
-
 #### 2.常用字符
 
 * 不等号\neq, 空格\qquad, 圆点\cdot, 三圆点\cdots, 箭头\leftarrow, \rightarrow
@@ -35,10 +32,6 @@ $$
 
 - 大写希腊字母
 ![](/images/greek_upper.JPG)
-
-
-
-
 
 ### 3.格式
 
