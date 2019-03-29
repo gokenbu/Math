@@ -7,9 +7,11 @@
 #### 1. 基本知识
 
 命令后加{...}表示命令的作用域
+
 ```
 a^x+y \neq a^{x+y}
 ```
+
 
 $$
 a^x+y \neq a^{x+y}
@@ -18,37 +20,45 @@ $$
 
 #### 2.希腊字母
 
-
 ```
 \alpha,\beta, \gamma,\delta, \Gamma,\Delta
 ```
+
+
 $$
  \alpha,\beta, \gamma,\delta, \Gamma,\Delta
 $$
 
+
 #### 4.
-- 指数^,下标_,平方根\sqrt，方根\sqrt[n],不等号\neq
+
+* 指数^,下标\_,平方根\sqrt，方根\sqrt\[n\],不等号\neq
+
 
 $$
 A_x+B_y+C^z \neq \sqrt{D+E} * \sqrt[3]{F-G}
 $$
 
-- 上画线\overline，下画线\underline
+
+* 上画线\overline，下画线\underline
 
 
 $$
 \overline{m+n} \qquad \underline{m+n}
 $$
 
-- 上、下方水平大括号: \overbrace 和\underbrace
 
+* 上、下方水平大括号: \overbrace 和\underbrace
 
 ```
-\overbrace{ a+b+\cdots+z }_{26} \qquad \underbrace{ a+b+\cdots+z }_{26} 
+\overbrace{ a+b+\cdots+z }^{26} \qquad \underbrace{ a+b+\cdots+z }_{26}
 ```
+
+
 $$
-\overbrace{ a+b+\cdots+z }_{26} \qquad \underbrace{ a+b+\cdots+z }_{26} 
+\overbrace{ a+b+\cdots+z }^{26} \qquad \underbrace{ a+b+\cdots+z }_{26}
 $$
+
 
 ### Latex基础
 
