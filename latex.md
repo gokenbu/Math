@@ -14,6 +14,16 @@ $$
 ```
 a^x+y \neq a^{x+y}
 ```
+#### 2.希腊字母
+
+
+```
+\alpha,\beta, \gamma,\delta, \Gamma,\Delta
+```
+$$
+ \alpha,\beta, \gamma,\delta, \Gamma,\Delta
+$$
+
 
 ### Latex基础
 
