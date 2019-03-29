@@ -61,6 +61,14 @@ $$
 \overbrace{ a+b+\cdots+z }^{26} \qquad \underbrace{ a+b+\cdots+z }_{26}
 $$
 
+- 向量\vec,\overrightarrow,\overleftarrow
+$$
+\vec a\quad\overrightarrow a \quad\overrightarrow{AB} \quad \overleftarrow
+{AB}
+$$
+
+
+
 
 ### Latex基础
 
