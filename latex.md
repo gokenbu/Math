@@ -30,8 +30,13 @@ $$
 \neq \qquad \cdot \qquad \cdots \qquad \leftarrow \qquad \rightarrow
 $$
 
-- 希腊字母
-![](/images/symbol.JPG)
+- 小写希腊字母
+![](/images/greek_lower.JPG)
+
+- 大写希腊字母
+![](/images/greek_upper.JPG)
+
+
 
 
 
