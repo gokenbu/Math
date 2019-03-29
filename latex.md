@@ -87,7 +87,8 @@ $$
 
 ```
 \mathbf{X} = \left( \begin{array}{ccc} x_{11} & x_{12} & \ldots \\ x_{21} & x_{22} & \ldots \\ \vdots & \vdots & \ddots
-\end{array} \right)
+\end{array} \right)\qquad \left(\begin{array}{c|c} 1 & 2 \\ \hline 3 & 4 \end{array}\right)
+
 ```
 
 
@@ -98,6 +99,13 @@ x_{11} & x_{12} & \ldots \\
 x_{21} & x_{22} & \ldots \\
 \vdots & \vdots & \ddots
 \end{array} \right)
+\qquad
+
+\left(\begin{array}{c|c}
+1 & 2 \\
+\hline
+3 & 4
+\end{array}\right)
 $$
 
 
