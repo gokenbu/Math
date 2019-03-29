@@ -52,7 +52,7 @@ $$
 
 $$
 \overline{m+n} \qquad \underline{m+n} \qquad
-
+\overbrace{ a+b+\cdots+z }^{26} \qquad \underbrace{ a+b+\cdots+z }_{26}
 $$
 
 
