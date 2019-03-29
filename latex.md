@@ -42,7 +42,7 @@ $$
 
 - 上、下方水平大括号: \overbrace 和\underbrace 在表达式的
 $$
-\underbrace{ a+b+\cdots+z }_{26} \qquad 
+\overbrace{ a+b+\cdots+z }_{26} \qquad \underbrace{ a+b+\cdots+z }_{26} 
 $$
 
 ### Latex基础
