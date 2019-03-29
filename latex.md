@@ -6,7 +6,7 @@
 
 #### 1. 基本知识
 
-命令仅对其后面第一个字符起作用，如果希望某一命令作用于多个字符的话，须将它们放置于括号中：{...}
+命令后加{...}表示命令的作用域
 ```
 a^x+y \neq a^{x+y}
 ```
@@ -26,13 +26,20 @@ $$
  \alpha,\beta, \gamma,\delta, \Gamma,\Delta
 $$
 
-#### 4.指数^和下标_
+#### 4.指数^,下标_,平方根\sqrt，\sqrt[n],不等号\neq
+
+$$
+A_x+B_y+C^z \neq \sqrt{D+E} * \sqrt[3]{F-G}
+$$
+
+#### 5.上画线\overline，下画线\underline
 
 
 $$
-A_x+B_y=C^z
+\overline{m+n} \qquad \underline{m+n}
 $$
 
+- 上、下方水平大括号: \overbrace 和\underbrace 在表达式的
 
 
 ### Latex基础
