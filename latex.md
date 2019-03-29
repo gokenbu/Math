@@ -30,7 +30,7 @@ $$
 \neq \qquad \cdot \qquad \cdots \qquad \leftarrow \qquad \rightarrow
 $$
 
-- 数学符号
+- 希腊字母
 ![](/images/symbol.JPG)
 
 
