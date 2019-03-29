@@ -30,12 +30,12 @@ $$
 \neq \qquad \cdot \qquad \cdots \qquad \leftarrow \qquad \rightarrow
 $$
 
-#### 3.数学符号
+- 数学符号
 ![](/images/symbol.JPG)
 
 
 
-### 4.格式
+### 3.格式
 
 * 分数（fraction）\frac{...}{...}
 
