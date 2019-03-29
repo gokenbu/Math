@@ -51,16 +51,13 @@ A_x+B_y+C^z \neq \sqrt{D+E} * \sqrt[3]{F-G}
 $$
 
 
-- 上画线\overline，下画线\underline
+- 上画线\overline, 下画线\underline, 水平大括号\overbrace及\underbrace
+
+
 
 
 $$
-\overline{m+n} \qquad \underline{m+n}
-$$
-
-- 上、下方水平大括号: \overbrace 和\underbrace
-
-$$
+\overline{m+n} \qquad \underline{m+n} \qquad 
 \overbrace{ a+b+\cdots+z }^{26} \qquad \underbrace{ a+b+\cdots+z }_{26}
 $$
 
