@@ -12,9 +12,7 @@ a^x+y \neq a^{x+y}
 $$
 
 ```
-\begin{equation}
 a^x+y \neq a^{x+y}
-\end{equation}
 ```
 
 ### Latex基础
