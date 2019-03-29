@@ -20,6 +20,20 @@ $$
 t    \qquad\rightarrow\qquad    \frac{1}{s^2}
 $$
 
+$$
+t^2    \qquad\rightarrow\qquad    \frac{2}{s^3}
+$$
+
+$$
+e^{at}    \qquad\rightarrow\qquad    \frac{1}{s+a}
+$$
+
+
+
+
+
+
+
 
 
 #### 3. 常用函数的逆变换
