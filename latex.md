@@ -30,7 +30,7 @@ $$
 $$
 
 
-#### 3.符号
+#### 3.字符
 - 不等号\neq, 空格\qquad, 圆点\cdot, 三圆点\cdots, 箭头\leftarrow, \rightarrow
 
 
