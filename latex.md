@@ -50,7 +50,9 @@ $$
 
 * 上画线\overline, 下画线\underline, 水平大括号\overbrace及\underbrace
 
-
+$$
+\overline{m+n}
+$$
 
 
 * 向量\vec,\overrightarrow,\overleftarrow
