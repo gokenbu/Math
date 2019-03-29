@@ -31,7 +31,15 @@ $$
 
 
 #### 3.符号
-- 不等号\neq， 空格\qquad，圆点\cdot, 三圆点\cdots,右箭头\rightarrow
+- 不等号\neq, 空格\qquad, 圆点\cdot, 三圆点\cdots, 箭头\leftarrow, \rightarrow
+
+
+$$
+\neq \qquad \cdot \qquad \cdots \qquad \leftarrow \qquad \rightarrow 
+
+
+$$
+
 
 
 ### 4.格式
