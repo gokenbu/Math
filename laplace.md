@@ -28,6 +28,18 @@ $$
 e^{at}    \qquad\rightarrow\qquad    \frac{1}{s+a}
 $$
 
+$$
+\sin\omega t    \qquad\rightarrow\qquad    \frac{\omega}{s^2+\omega^2}
+$$
+
+
+
+
+
+
+
+
+
 
 
 
