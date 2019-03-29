@@ -31,8 +31,7 @@ $$
 $$
 
 #### 3.数学符号
-
-![](/assets/symbol.JPG)
+![](/images/symbol.JPG)
 
 
 
