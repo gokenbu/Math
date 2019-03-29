@@ -18,19 +18,10 @@ a^x+y \neq a^{x+y}
 $$
 
 
-#### 2.希腊字母
-
-```
-\alpha,\beta, \gamma,\delta, \Gamma,\Delta
-```
 
 
-$$
- \alpha,\beta, \gamma,\delta, \Gamma,\Delta
-$$
 
-
-#### 3.字符
+#### 2.常用字符
 
 * 不等号\neq, 空格\qquad, 圆点\cdot, 三圆点\cdots, 箭头\leftarrow, \rightarrow
 
@@ -38,6 +29,11 @@ $$
 $$
 \neq \qquad \cdot \qquad \cdots \qquad \leftarrow \qquad \rightarrow
 $$
+
+#### 3.数学符号
+
+![](/assets/symbol.JPG)
+
 
 
 ### 4.格式
