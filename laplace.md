@@ -17,7 +17,7 @@ $$
 $$
 
 $$
-t\qquad\rightarrow\qquad\frac{1}{s^2}
+t    \qquad\rightarrow\qquad    \frac{1}{s^2}
 $$
 
 
