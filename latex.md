@@ -63,8 +63,7 @@ $$
 
 - 向量\vec,\overrightarrow,\overleftarrow
 $$
-\vec a\quad\overrightarrow a \quad\overrightarrow{AB} \quad \overleftarrow
-{AB}
+\vec a\quad \overrightarrow{AB} \quad \overleftarrow{AB}
 $$
 
 
