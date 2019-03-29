@@ -43,11 +43,11 @@ $$
 
 
 ### 4.格式
-- 指数^,下标\_,平方根\sqrt，方根\sqrt\[n\]
+- 上标^,下标_,平方根\sqrt，方根\sqrt\[n\]
 
 
 $$
-A_x+B_y+C^z \neq \sqrt{D+E} * \sqrt[3]{F-G}
+A^x+B_y=\sqrt{C^z+D} \cdot \sqrt[3]{E-F}
 $$
 
 
