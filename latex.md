@@ -24,9 +24,11 @@ $$
 $$
 
 - 小写希腊字母
+
 ![](/images/greek_lower.JPG)
 
 - 大写希腊字母
+
 ![](/images/greek_upper.JPG)
 
 #### 3.格式
@@ -81,6 +83,7 @@ $$
 
 #### 9.数学符号表
 - 数学模式重音符
+
 ![](/images/accent.JPG)
 
 
