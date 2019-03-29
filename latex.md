@@ -71,7 +71,7 @@ $$
 \vec a\quad \overrightarrow{AB} \quad \overleftarrow{AB}
 $$
 
-- 积分（integral）\int，求和（sum）\sum及乘积运算（product）\prod
+- 积分（integral）\int，求和（sum）\sum，乘积运算（product）\prod
 
 
 $$
