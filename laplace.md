@@ -54,7 +54,8 @@ L[ \frac{df(t)}{dt}]=\qquad sF(s) - f(0)
 $$
 
 $$
-\int{f(t)dt}\qquad\rightarrow\qquad \frac{F(s)}{s} + \frac{q(0)}{s} 
+积分定理\qquad\qquad
+L[ \int{f(t)dt}] = \frac{F(s)}{s} + \frac{[ \int{f(t)dt}]_{t=0}}{s} 
 $$
 
 
