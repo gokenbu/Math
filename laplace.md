@@ -42,6 +42,37 @@ $$
  \qquad\rightarrow\qquad sI(s) - i(0)
 $$
 
+$$
+\int{i(t)dt}\qquad\rightarrow\qquad \frac{I(s)}{s} + \frac{q(0)}{s} 
+$$
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
