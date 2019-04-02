@@ -39,14 +39,6 @@ $$
 $$
 
 
-$$
-\frac{di(t)}{dt}
- \qquad\rightarrow\qquad sI(s) - i(0)
-$$
-
-$$
-\int{i(t)dt}\qquad\rightarrow\qquad \frac{I(s)}{s} + \frac{q(0)}{s} 
-$$
 
 #### 3. 基本性质
 
@@ -58,9 +50,13 @@ $$
 
 $$
 微分定理\qquad\qquad
-L[af(t)]=aF(s)\qquad\qquad
-L[f_1(t)±f_2(t)]=F_1(s)±F_2(s)
+L[ \frac{df(t)}{dt}]=\qquad sF(s) - f(0)
 $$
+
+$$
+\int{f(t)dt}\qquad\rightarrow\qquad \frac{F(s)}{s} + \frac{q(0)}{s} 
+$$
+
 
 
 
