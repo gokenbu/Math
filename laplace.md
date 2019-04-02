@@ -55,6 +55,7 @@ $$
 L[af(t)]=aF(s)\qquad\qquad
 L[f_1(t)±f_2(t)]=F_1(s)±F_2(s)
 $$
+
 $$
 微分定理\qquad\qquad
 L[af(t)]=aF(s)\qquad\qquad
