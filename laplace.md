@@ -2,12 +2,14 @@
 
 #### 1. 定义
 
-
 $$
 L[f(t)] = F(s) = \int_{0}^{\infty}f(t)e^{-st}dt
 \qquad \qquad (s=\sigma + j\omega)
 $$
 
+$$
+L^{-1}[F(s)]=f(t) = \frac{1}{2{\pi}j} \int_{c-j\infty}^{c+j\infty}F(s)e^{st}ds 
+$$
 
 #### 2. 常用变换
 
@@ -46,61 +48,31 @@ $$
 \int{i(t)dt}\qquad\rightarrow\qquad \frac{I(s)}{s} + \frac{q(0)}{s} 
 $$
 
+#### 3. 基本性质
+
+$$
+线性定理\qquad\qquad
+L[af(t)]=aF(s)\qquad\qquad
+L[f_1(t)±f_2(t)]=F_1(s)±F_2(s)
+$$
+
+
+$$
+线性定理\qquad\qquad
+L[af(t)]=aF(s)\qquad\qquad
+L[f_1(t)±f_2(t)]=F_1(s)±F_2(s)
+$$
+
+
+
+#### 4. 常用逆变换
 
 
 
 
 
+XX
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#### 3. 常用函数的逆变换
 
 
 
